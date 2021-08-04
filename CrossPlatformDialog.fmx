@@ -1,0 +1,55 @@
+object DialogForm: TDialogForm
+  Left = 0
+  Top = 0
+  BorderIcons = []
+  BorderStyle = Single
+  ClientHeight = 121
+  ClientWidth = 257
+  Transparency = True
+  FormFactor.Width = 0
+  FormFactor.Height = 0
+  FormFactor.Devices = []
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object pnlDialog: TPanel
+    Size.Width = 257.000000000000000000
+    Size.Height = 120.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object btnYes: TButton
+      StyledSettings = [Family, Style, FontColor]
+      ModalResult = 1
+      Position.X = 27.000000000000000000
+      Position.Y = 64.000000000000000000
+      Size.Width = 94.000000000000000000
+      Size.Height = 33.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = #1044#1040
+      TextSettings.Font.Size = 14.000000000000000000
+    end
+    object btnNo: TButton
+      StyledSettings = [Family, Style, FontColor]
+      ModalResult = 2
+      Position.X = 136.000000000000000000
+      Position.Y = 64.000000000000000000
+      Size.Width = 94.000000000000000000
+      Size.Height = 33.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = #1053#1045#1058
+      TextSettings.Font.Size = 14.000000000000000000
+    end
+    object lblQuestion: TLabel
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 12.000000000000000000
+      Position.Y = 11.000000000000000000
+      Size.Width = 233.000000000000000000
+      Size.Height = 38.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 13.000000000000000000
+      TextSettings.HorzAlign = Center
+      Text = #1042#1099' '#1076#1077#1081#1089#1090#1074#1080#1090#1077#1083#1100#1085#1086' '#1093#1086#1090#1080#1090#1077' '#1074#1099#1081#1090#1080'?'
+    end
+  end
+end

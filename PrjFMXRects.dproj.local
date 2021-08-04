@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<MobileDevice>706ef0fc9904-Android</MobileDevice>
+	<Transactions>
+    <Transaction>1899 12 30 00:00:00.000.060,D:\Delphi Projects\FMX Game -_-\_compressed\car_sport_red.png=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.155,=D:\Delphi Projects\FMX Game -_-\_compressed\car_sport_red.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.068,=D:\Delphi Projects\FMX Game -_-\_compressed\car_gray.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.281,=D:\Delphi Projects\FMX Game -_-\_compressed\car_gray.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.334,=D:\Delphi Projects\FMX Game -_-\_compressed\car_sport_red.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.304,=D:\Delphi Projects\FMX Game -_-\_compressed\car_red.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.108,=D:\Delphi Projects\FMX Game -_-\_compressed\car_red.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.393,E:\_мои проекты\_delete\Utils.pas=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.113,E:\_мои проекты\_delete\MainUnit.pas=E:\_мои проекты\_delete\UMain.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.402,=E:\_мои проекты\_delete\Unit1.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.525,E:\_мои проекты\_delete\Unit1.pas=E:\_мои проекты\_delete\UObjects.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.226,E:\_мои проекты\_delete\RacingApp.dproj=E:\_мои проекты\_delete\PrjFMXRects.dproj</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.883,E:\_мои проекты\_delete\StrConsts.pas=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.132,=D:\Delphi Projects\FMX Game -_-\_compressed\car_silver.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.972,D:\Delphi Projects\FMX Game -_-\_compressed\car_gray.png=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.015,E:\_мои проекты\_delete\RacingTimerEvents.pas=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.322,=D:\Delphi Projects\FMX Game -_-\_compressed\car_silver.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.041,D:\Delphi Projects\FMX Game -_-\_compressed\car_silver.png=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.021,D:\Delphi Projects\FMX Game -_-\_compressed\car_red.png=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.095,D:\Delphi Projects\FMX Game -_-\_compressed\car_yellow.png=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.210,=D:\Delphi Projects\FMX Game -_-\_compressed\car_yellow.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.816,D:\Delphi Projects\FMX Game -_-\database.s3db=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.335,E:\_мои проекты\_delete\CrossPlatformDialog.pas=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.366,=D:\Delphi Projects\FMX Game -_-\_compressed\car_yellow.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.565,=D:\Delphi Projects\FMX Game -_-\_compressed\car_blue.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.802,D:\Delphi Projects\FMX Game -_-\_compressed\car_blue.png=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.049,=D:\Delphi Projects\FMX Game -_-\_compressed\car_blue.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.927,E:\_мои проекты\_delete\GlobalFunctions.pas=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.289,=D:\Delphi Projects\FMX Game -_-\_compressed\car_lightgreen.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.996,D:\Delphi Projects\FMX Game -_-\_compressed\car_lightgreen.png=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.087,=D:\Delphi Projects\FMX Game -_-\_compressed\car_lightgreen.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.789,E:\_мои проекты\_delete\DataDefs.pas=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.113,E:\_мои проекты\_delete\MainUnit.fmx=E:\_мои проекты\_delete\UMain.fmx</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.078,E:\_мои проекты\_delete\GlobalConsts.pas=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.079,D:\Delphi Projects\FMX Game -_-\_compressed\car_sport_redwhite.png=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.351,=D:\Delphi Projects\FMX Game -_-\_compressed\car_sport_redwhite.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.181,=D:\Delphi Projects\FMX Game -_-\_compressed\car_sport_redwhite.png</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
